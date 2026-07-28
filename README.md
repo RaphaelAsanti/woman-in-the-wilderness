@@ -12,7 +12,8 @@ The excerpt explains how a mistranslated Greek verb in Revelation 12 created two
   PDF version of the excerpt exactly as it appears in the book.
 
 - **Full Ebook — The End of Time**  
-  [Download the complete book (PDF)](../the-end-of-time.pdf)
+  [Read the complete book (HTML)](https://raphaelasanti.github.io/the-end-of-time/)
+
 
 ## Summary
 
