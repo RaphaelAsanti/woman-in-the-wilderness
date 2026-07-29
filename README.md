@@ -5,7 +5,7 @@ The excerpt explains how a mistranslated Greek verb in Revelation 12 created two
 
 ## Files
 
-- **[index.html](index.html)**  
+- **[index.html](https://raphaelasanti.github.io/woman-in-the-wilderness/)**  
   Mobile‑friendly, SEO‑optimized HTML page containing the full excerpt, structured data, and social‑share links.
 
 - **[woman-in-the-wilderness.pdf](woman-in-the-wilderness.pdf)**  
