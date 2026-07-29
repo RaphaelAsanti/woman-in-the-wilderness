@@ -26,3 +26,6 @@ The excerpt covers:
 - How correcting the mistranslation restores the narrative structure of Revelation 12.
 
 This excerpt is part of the larger project to present the text in its original conceptual form, without doctrinal distortions introduced by translation errors.
+---
+
+Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
