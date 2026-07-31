@@ -28,4 +28,10 @@ The excerpt covers:
 This excerpt is part of the larger project to present the text in its original conceptual form, without doctrinal distortions introduced by translation errors.
 ---
 
-Additional background context is available [here](https://raphaelasanti.github.io/the-eye-of-the-needle/).
+## Author
+
+Raphael E. Asanti  
+July 2026
+
+Main index: https://raphaelasanti.github.io/
+
