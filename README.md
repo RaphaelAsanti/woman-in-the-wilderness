@@ -13,8 +13,8 @@ This page outlines the sequence, the isolation posture, and the structural logic
 - **Full Ebook — The End of Time** (HTML)  
   https://raphaelasanti.github.io/endoftime/
 
-- **License**  
-  https://raphaelasanti.github.io/woman-in-the-wilderness/LICENSE
+- **License**
+  https://github.com/raphaelasanti/woman-in-the-wilderness/blob/main/LICENSE  
 
 ## Author
 Raphael E. Asanti  
