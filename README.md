@@ -14,7 +14,7 @@ This page outlines the sequence, the isolation posture, and the structural logic
   https://raphaelasanti.github.io/endoftime/
 
 - **License**  
-  https://raphaelasanti.github.io/woman-in-the-wilderness/LICENSE.txt
+  https://raphaelasanti.github.io/woman-in-the-wilderness/LICENSE
 
 ## Author
 Raphael E. Asanti  
