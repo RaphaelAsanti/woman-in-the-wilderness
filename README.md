@@ -23,7 +23,7 @@ July 2026
 ## Related Pages
 - **Main Index**  
   https://raphaelasanti.github.io/
-  
+
 ---
 
 ### Donate
@@ -35,8 +35,15 @@ https://cash.app/$phirunltd
 **Gumroad (optional donation when downloading)**  
 https://phirun4.gumroad.com/l/zsmzjh
 
+---
+
 ### Contribute
-Share this page on your social media to extend its reach.
+Share the public page on your social media to extend its reach:
+
+https://raphaelasanti.github.io/woman-in-the-wilderness/
+
+---
 
 **Free Ebook**  
+If you prefer not to donate, the same eBook is available here:
 https://github.com/raphaelasanti/the-end-of-time/
