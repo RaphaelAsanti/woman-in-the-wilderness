@@ -23,4 +23,20 @@ July 2026
 ## Related Pages
 - **Main Index**  
   https://raphaelasanti.github.io/
+  
+---
 
+### Donate
+This work is sustained entirely by voluntary contributions.
+
+**Cash App**  
+https://cash.app/$phirunltd
+
+**Gumroad (optional donation when downloading)**  
+https://phirun4.gumroad.com/l/zsmzjh
+
+### Contribute
+Share this page on your social media to extend its reach.
+
+**Free Ebook**  
+https://github.com/raphaelasanti/the-end-of-time/
