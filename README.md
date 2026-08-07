@@ -52,5 +52,5 @@ This work is sustained entirely by voluntary contributions. Thank you for consid
 - Main Index: https://raphaelasanti.github.io/
 - Full eBook: https://github.com/raphaelasanti/the-end-of-time/
 - Elijah's Burned Bull: https://raphaelasanti.github.io/burned-bull-elijah/
-- The Real Reason for Earth's Tilt: https//raphaelasanti.github.io/tilt-of-the-earth/
+- The Real Reason for Earth's Tilt: https://raphaelasanti.github.io/tilt-of-the-earth/
 - The Eye of the Needle: https://raphaelasanti.github.io/the-eye-of-the-needle/
