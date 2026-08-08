@@ -6,7 +6,7 @@ A concise structural overview of the "Woman in the Wilderness" narrative and its
 
 ---
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nd/4.0/)
-[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/womain-in-the-wilderness/)
+[![GitHub Pages](https://img.shields.io/badge/site-GitHub%20Pages-green.svg)](https://raphaelasanti.github.io/woman-in-the-wilderness/)
 
 ---
 
