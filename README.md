@@ -1,6 +1,6 @@
 # The Woman in the Wilderness — Structural Overview & Excerpt
 
-[Live site](https://raphaelasanti.github.io/woman-in-the-wilderness/) • [PDF excerpt](https://raphaelasanti.github.io/woman-in-the-wilderness/woman-in-the-wilderness.pdf) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/endoftime/) • [License](./LICENSE)
+[Live site](https://raphaelasanti.github.io/woman-in-the-wilderness/) • [PDF excerpt](https://raphaelasanti.github.io/woman-in-the-wilderness/woman-in-the-wilderness.pdf) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/the-end-of-time/) • [License](./LICENSE)
 
 A concise structural overview of the "Woman in the Wilderness" narrative and its direct transition into the dispute in heaven. This project hosts a short interpretive page and a PDF excerpt from the full ebook "The End of Time."
 
