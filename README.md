@@ -26,6 +26,8 @@ This repo contains a focused HTML page and a PDF excerpt presenting the narrativ
 ## Files / Links
 - index.html — Primary page (HTML)  
   https://raphaelasanti.github.io/woman-in-the-wilderness/
+- who-she-is.html — Identity page (HTML)  
+  https://raphaelasanti.github.io/woman-in-the-wilderness/who-she-is.html
 - Ebook excerpt (PDF)  
   https://raphaelasanti.github.io/woman-in-the-wilderness/woman-in-the-wilderness.pdf
 - Full Ebook — The End of Time (HTML)  
